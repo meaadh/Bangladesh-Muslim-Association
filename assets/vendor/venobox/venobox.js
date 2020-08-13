@@ -419,7 +419,7 @@
                     }
                 }
 
-                /* -------- gallery navigation -------- */
+                /* -------- event navigation -------- */
                 function navigateGall(destination) {
 
                     if (destination.length < 1) {
